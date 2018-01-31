@@ -1,0 +1,221 @@
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAnFinal\pttkpm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HangHoa.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.ThongKe.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\RdlCompile.cache
+D:\HocTap\HCMUS\PTPM\DoAnFinalEnd\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\RdlCompile.compiled
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csprojResolveAssemblyReference.cache
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HangHoa.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.ThongKe.resources
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\RdlCompile.cache
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\RdlCompile.compiled
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAnFinal\phantichthietkepm\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csprojResolveAssemblyReference.cache
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HangHoa.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.ThongKe.resources
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\RdlCompile.cache
+C:\Users\Van Trong\Desktop\RedGate\1642066_1642094\1642066_1642094\QLVLXD\QLVLXD\obj\Debug\RdlCompile.compiled
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HangHoa.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.ThongKe.resources
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\RdlCompile.cache
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\RdlCompile.compiled
+D:\HocTap\HCMUS\PTPM\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csprojResolveAssemblyReference.cache
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HangHoa.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.ThongKe.resources
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csprojResolveAssemblyReference.cache
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\RdlCompile.cache
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\obj\Debug\RdlCompile.compiled
+C:\Users\ThanhNH\Documents\Visual Studio 2012\Projects\Project\DoAn\QLVLXD\QLVLXD\bin\Debug\Views\Report1.rdlc
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe.config
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\Views\Report1.rdlc
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.exe
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\QLVLXD.pdb
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.xml
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\EntityFramework.SqlServer.xml
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Form1.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Properties.Resources.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HangHoa.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.HoaDonChungTu.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.Home.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.KhachHang.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhaCungCap.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhanVien.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.NhapHang.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.Views.ThongKe.resources
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\QLVLXD.csproj.GenerateResource.Cache
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\RdlCompile.cache
+D:\HocTap\HCMUS\PTPM\DoanThanh\DoAn\QLVLXD\QLVLXD\obj\Debug\RdlCompile.compiled
